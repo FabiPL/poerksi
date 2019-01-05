@@ -1,5 +1,9 @@
-Save the folder "final" to your computer
-Download prolog from http://www.swi-prolog.org/
-Open "weissbescheid.pl"
-In the console type: weissbescheid.
-Chat :P
+1) Save the folder "final" to your computer
+
+2) Download prolog from http://www.swi-prolog.org/
+
+3) Open "weissbescheid.pl"
+
+4) In the console type: weissbescheid.
+
+5) Chat :P
